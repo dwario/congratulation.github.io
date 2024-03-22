@@ -29,7 +29,7 @@
         wrapper.appendChild(typingDemo);
         document.body.appendChild(wrapper);
 
-        const textToType = "Andrea, ¡Felicidades por este momento tan importante en tu carrera! Sin duda, esto es solo una pequeña muestra del potencial que tienes. No puedo esperar a ver lo que vas a lograr. ¡Por ahora, disfruta de los fuegos artificiales! -D ♥";
+        const textToType = "Andrea, ¡Felicidades por este momento tan importante en tu carrera, gracias por permitirme ser parte de el! Sin duda, esto solo es una muestra del potencial que tienes. No puedo esperar a ver lo que vas a lograr. ¡Por ahora, disfruta de los fuegos artificiales! -D ♥";
 
         let i = 0;
         const typingInterval = setInterval(() => {
